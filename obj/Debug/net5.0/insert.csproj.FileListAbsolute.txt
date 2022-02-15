@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\insert\bin\Debug\net5.0\insert.exe
+C:\Users\Admin\Documents\insert\bin\Debug\net5.0\insert.deps.json
+C:\Users\Admin\Documents\insert\bin\Debug\net5.0\insert.runtimeconfig.json
+C:\Users\Admin\Documents\insert\bin\Debug\net5.0\insert.runtimeconfig.dev.json
+C:\Users\Admin\Documents\insert\bin\Debug\net5.0\insert.dll
+C:\Users\Admin\Documents\insert\bin\Debug\net5.0\ref\insert.dll
+C:\Users\Admin\Documents\insert\bin\Debug\net5.0\insert.pdb
+C:\Users\Admin\Documents\insert\obj\Debug\net5.0\insert.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\insert\obj\Debug\net5.0\insert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\insert\obj\Debug\net5.0\insert.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\insert\obj\Debug\net5.0\insert.AssemblyInfo.cs
+C:\Users\Admin\Documents\insert\obj\Debug\net5.0\insert.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\insert\obj\Debug\net5.0\insert.dll
+C:\Users\Admin\Documents\insert\obj\Debug\net5.0\ref\insert.dll
+C:\Users\Admin\Documents\insert\obj\Debug\net5.0\insert.pdb
+C:\Users\Admin\Documents\insert\obj\Debug\net5.0\insert.genruntimeconfig.cache
